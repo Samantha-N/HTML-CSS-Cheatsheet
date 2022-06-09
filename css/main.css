@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 22px;
+}
+
+table th  {
+    width: 100%;
+    height: 0 auto;
+    border: 1px solid purple;
+    padding: 0 20px 0 20px;
+
+}
+
+tr {
+    text-align: justify;
+    border: 1px solid purple;
+}
